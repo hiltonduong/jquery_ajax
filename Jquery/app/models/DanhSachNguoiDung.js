@@ -1,5 +1,5 @@
 function DanhSachNguoiDung() {
-    this.mangNguoiDung = [];
+    this.mangNguoiDung = ["a", "b"];
 }
 // Nếu là người mời git hub thì trc khi git push thì phải git pull về
 // git branch Tạo nhánh git
