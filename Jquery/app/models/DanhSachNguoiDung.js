@@ -1,0 +1,3 @@
+function DanhSachNguoiDung() {
+    this.mangNguoiDung = [];
+}
